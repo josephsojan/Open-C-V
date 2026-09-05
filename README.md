@@ -7,7 +7,6 @@ This project demonstrates the power of **OpenCV** for computer vision tasks, suc
 - **Image processing**: Enhance and manipulate images.
 - **Object detection**: Detect objects in images or videos.
 - **Face recognition**: Recognize faces in real-time using a webcam.
-- **Video processing**: Work with video streams.
 
 ## Installations
 
